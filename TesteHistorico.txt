@@ -3,5 +3,6 @@ Exemplo de histórico de versionamento
 - Inserindo linha inicial (commit 1)
 - Inserindo nova linha (commit 2)
 - Inserindo nova linha (commit 3)
-- Inserindo nova linha (commit 4 - Esse não existe mais)
-- Inserindo nova linha (commit 5 - Esse não existe mais)
+- Inserindo nova linha (commit versão recuperada)
+- Inserindo nova linha (commit versão recuperada)
+- Inserindo nova linha (commit versão recuperada)
